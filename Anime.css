@@ -2,18 +2,18 @@
 #demo,.input{
 background-color:#008CBA;
 color: white;
-padding: 15px;
+padding: 30px;
 
 border-radius: 4px;
 border: 1.8px solid black;
 font-size:18px;
 
 }
-.input{padding-left: 80px;}
+
+
 .container{
 border: 2px solid #008CBA;
-padding: 20px;
-margin-right: 240px;
+padding: 30px;
 border-radius:25px;
 font-family: 'Teko',sans-serif;
 background-color:	steelblue;
@@ -65,4 +65,12 @@ font-size: 18px;
 font-family: 'Teko', sans-serif;
 margin-bottom: 13px;
 cursor: pointer;
+}
+body{display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/123740332/original/60547d6091e5c71dfb5cf8e0841c7d3d77f89ae2/create-anime-background-style.jpg);
+    background-size: cover;
+    
+
 }
